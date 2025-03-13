@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Caio Vieira Da Costa Leal
+Matricula: 890995
 
 ## Tela de inspeção com navegador
-
-
+![print da inspecao parte 1](img/gosto1.png)
+![print da inspecao parte 2](img/gosto2.png)
+![peint da inspecao parte 3](img/gosto3.png)
 ## Tela de projeto no Replit
-
+![print do ola mundo](img/olamundo.png)
